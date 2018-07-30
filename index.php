@@ -1,10 +1,11 @@
 <?php
 
-function sum ($a, $b) {
-	$res = $a + $b;
-	return 'Nick says summ is '.$res;
-}
+include_once 'src/sum.php';
+
+use SkyNetRU\Sum;
+
+$sum = new Sum();
 
 $a = 5;
 $b = 2;
-echo sum($a, $b);
+echo $sum->sum($a, $b);

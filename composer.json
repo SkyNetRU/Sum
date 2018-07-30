@@ -1,0 +1,12 @@
+{
+    "name": "SkyNetRU/sum1",
+    "description": "Test Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nikolai Demin",
+            "email": "demin.nikolai@inbox.ru"
+        }
+    ],
+    "require": {}
+}
