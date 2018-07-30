@@ -8,5 +8,10 @@
             "email": "demin.nikolai@inbox.ru"
         }
     ],
+    "autoload": {
+      "psr-4": {
+        "SkyNetRU\\": "src"
+      }
+    },
     "require": {}
 }
