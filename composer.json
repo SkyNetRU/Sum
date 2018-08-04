@@ -2,6 +2,7 @@
     "name": "skynetru/sum1",
     "description": "Test Package",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nikolai Demin",
